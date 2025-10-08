@@ -47,3 +47,17 @@ print(f"AURA Score: {scores['aura_score']}")
 
 AQEval is our evaluation set for measuring how well metrics align with human judgments for Audio QA. It combines curated subsets of ClothoAQA and OpenAQA with diverse model responses and MTurk annotations, yielding a broad benchmark spanning short to long-form AQA.
 
+## Citation
+
+```
+@misc{dixit2025aurascoremetricholistic,
+      title={AURA Score: A Metric For Holistic Audio Question Answering Evaluation}, 
+      author={Satvik Dixit and Soham Deshmukh and Bhiksha Raj},
+      year={2025},
+      eprint={2510.04934},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2510.04934}, 
+}
+```
+
